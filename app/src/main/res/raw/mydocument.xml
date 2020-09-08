@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Livres>
+<Livre>
+  	<numero>01</numero>
+ 	<intitule>Systemes exploitations</intitule>
+	<AnneeEdition>2008</AnneeEdition>
+	<auteur>Andrew  Tanenbaum</auteur>
+</Livre>
+	<Livre>
+		<numero>02</numero>
+		<intitule>Interaction Homme Machine</intitule>
+		<AnneeEdition>2006</AnneeEdition>
+		<auteur>Beaudouin-Lafon Michel</auteur>
+	</Livre>
+</Livres>
